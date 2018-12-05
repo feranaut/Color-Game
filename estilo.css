@@ -1,0 +1,83 @@
+.cuadrado{
+	float: left;
+	width: 30%;
+	height: 0%;
+	padding-bottom: 30%;
+	background-color: #CAD5CA;
+	border:3px round black;
+	margin: 1%;
+}
+
+.container{
+	width:600px;
+	margin: 0 auto;
+	background-color:#232323;
+}
+
+h1{
+	color: white;
+	text-align: center;
+	background-color: steelblue;
+	margin: 0;
+}
+
+body{
+	background-color:#232323;
+	margin: 0;
+}
+
+.letra_color{
+	color: white;
+	text-align: center;
+}
+
+#colorDisplay{
+	color:pickedColor;
+	display: block;
+}
+
+#message{
+	text-align: center;
+	color:black	;
+	display: inline-block;
+	width: 51%;
+}
+
+#stripe{
+	background-color: white;
+	height: 30px;
+}
+
+#reset{
+	/*margin-left: 380px;*/
+	margin-top: 6px;
+	border: none;
+	font-weight: bolder;
+	background: none;
+	color: steelblue;
+	outline: none;
+}
+
+.selected{
+	background-color: steelblue;
+	border:none;
+	font-weight: bolder;
+}
+
+#facil{
+	border:none;
+	background: none;
+	font-weight: bolder;
+}
+
+
+.espacio{
+	margin-top: 10px;
+}
+
+.centrado{
+
+	width: 40%;
+	background-color: inherit;
+}
+
